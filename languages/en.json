@@ -1,0 +1,11 @@
+{
+	"welcome": "Welcome to SATRANC365!",
+	"anasayfa": "Home",
+    "verificationDesc": "The operation was successful, you will receive email confirmation instructions at <0> {{email}} </0> . Enter the 6 digit code received.",
+	"blog": {
+		"optimized": {
+			"question": "Do you like to unleash some super powers to have all side optimized translations?",
+			"answer": "Then you may have a look at <1>this blog post</1>."
+		}
+	}
+}
